@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Glow-rhee
-- 👀 I’m interested in Software Developement
+- 👀 I’m a Software Developer(Front-end)
 - 🌱 I’m currently learning how to become a full-stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
