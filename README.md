@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glow-rhee
-- 👀 I’m a Software Developer(Front-end)
-- 🌱 I’m currently learning how to become a full-stack developer
+- 👀 I’m design cute web pages.
+- 🌱 I’m an AI Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
